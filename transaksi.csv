@@ -1,0 +1,366 @@
+﻿id_transaksi;nomor_transaksi;id_user;id_admin;tanggal_pembelian;alamat;nama_barang;kuantitas;harga_satuan;total_harga;basah_kering;keterangan;penjual
+1230001;TRX001;U001;A001;01/01/2023;Jl. Sitoluama No. 1;Jagung;24;7500;180000;Kering;Cash;Petani
+1230002;TRX002;U002;A002;02/01/2023;Jl.Porsea No. 10;Jagung;18;5500;99000;Basah;Transfer;tokke kecil
+1230003;TRX003;U003;A003;03/01/2023;Jl. Balige No. 5;Jagung;15;7000;105000;Basah;Transfer;petani
+1230004;TRX004;U004;A004;04/01/2023;Jl. Sitoluama No. 8;Jagung;28;6500;182000;Kering;Cash;tokke kecil
+1230005;TRX005;U005;A005;05/01/2023;Jl. Porsea No. 3;Jagung;20;6000;120000;Kering;Cash;Petani
+1230006;TRX006;U001;A001;06/01/2023;Jl. Sitoluama No. 1;Jagung;12;5500;66000;Basah;Cash;Petani
+1230007;TRX007;U002;A002;07/01/2023;Jl.Porsea No. 10;Jagung;26;8000;208000;Kering;Transfer;tokke kecil
+1230008;TRX008;U003;A003;08/01/2023;Jl. Balige No. 5;Jagung;14;6000;84000;Kering;Transfer;petani
+1230009;TRX009;U004;A004;09/01/2023;Jl. Sitoluama No. 8;Jagung;30;7500;225000;Basah;Cash;tokke kecil
+1230010;TRX010;U005;A005;10/01/2023;Jl. Porsea No. 3;Jagung;16;7000;112000;Kering;Cash;Petani
+1230011;TRX011;U001;A001;11/01/2023;Jl. Sitoluama No. 1;Jagung;29;7500;217500;Basah;Transfer;Petani
+1230012;TRX012;U002;A002;12/01/2023;Jl.Porsea No. 10;Jagung;21;6000;126000;Kering;Transfer;tokke kecil
+1230013;TRX013;U003;A003;13/01/2023;Jl. Balige No. 5;Jagung;18;6500;117000;Basah;Cash;petani
+1230014;TRX014;U004;A004;14/01/2023;Jl. Sitoluama No. 8;Jagung;10;5500;55000;Kering;Cash;tokke kecil
+1230015;TRX015;U005;A005;15/01/2023;Jl. Porsea No. 3;Jagung;22;7000;154000;Basah;Transfer;Petani
+1230016;TRX016;U001;A001;16/01/2023;Jl. Sitoluama No. 1;Jagung;30;8000;240000;Kering;Transfer;Petani
+1230017;TRX017;U002;A002;17/01/2023;Jl.Porsea No. 10;Jagung;19;6000;114000;Basah;Cash;tokke kecil
+1230018;TRX018;U003;A003;18/01/2023;Jl. Balige No. 5;Jagung;25;7500;187500;Kering;Cash;petani
+1230019;TRX019;U004;A004;19/01/2023;Jl. Sitoluama No. 8;Jagung;12;5500;66000;Basah;Cash;tokke kecil
+1230020;TRX020;U005;A005;20/01/2023;Jl. Porsea No. 3;Jagung;27;6500;175500;Kering;Transfer;Petani
+1230021;TRX021;U001;A001;21/01/2023;Jl. Sitoluama No. 1;Jagung;16;7000;112000;Basah;Cash;Petani
+1230022;TRX022;U002;A002;22/01/2023;Jl.Porsea No. 10;Jagung;14;5500;77000;Kering;Transfer;tokke kecil
+1230023;TRX023;U003;A003;23/01/2023;Jl. Balige No. 5;Jagung;29;7500;217500;Basah;Transfer;petani
+1230024;TRX024;U004;A004;24/01/2023;Jl. Sitoluama No. 8;Jagung;17;8000;136000;Kering;Cash;tokke kecil
+1230025;TRX025;U005;A005;25/01/2023;Jl. Porsea No. 3;Jagung;10;6000;60000;Basah;Cash;Petani
+1230026;TRX026;U001;A001;26/01/2023;Jl. Sitoluama No. 1;Jagung;22;7500;165000;Kering;Transfer;Petani
+1230027;TRX027;U002;A002;27/01/2023;Jl.Porsea No. 10;Jagung;18;7000;126000;Basah;Cash;tokke kecil
+1230028;TRX028;U003;A003;28/01/2023;Jl. Balige No. 5;Jagung;15;5000;75000;Kering;Cash;petani
+1230029;TRX029;U004;A004;29/01/2023;Jl. Sitoluama No. 8;Jagung;21;8000;168000;Basah;Cash;tokke kecil
+1230030;TRX030;U005;A005;30/01/2023;Jl. Porsea No. 3;Jagung;24;7000;168000;Kering;Transfer;Petani
+1230031;TRX031;U005;A005;31/01/2023;Jl. Porsea No. 3;Jagung;24;8000;168000;Kering;Transfer;Petani
+1230032;TRX032;U001;A001;01/02/2023;Jl. Sitoluama No. 1;Jagung;27;5000;135000;Basah;Cash;Petani
+1230033;TRX033;U002;A002;02/02/2023;Jl.Porsea No. 10;Jagung;16;6000;96000;Kering;Transfer;tokke kecil
+1230034;TRX034;U003;A003;03/02/2023;Jl. Balige No. 5;Jagung;24;7000;168000;Basah;Transfer;petani
+1230035;TRX035;U004;A004;04/02/2023;Jl. Sitoluama No. 8;Jagung;19;8000;152000;Kering;Cash;tokke kecil
+1230036;TRX036;U005;A005;05/02/2023;Jl. Porsea No. 3;Jagung;12;5000;60000;Basah;Cash;Petani
+1230037;TRX037;U001;A001;06/02/2023;Jl. Sitoluama No. 1;Jagung;21;6000;126000;Kering;Cash;Petani
+1230038;TRX038;U002;A002;07/02/2023;Jl.Porsea No. 10;Jagung;13;7000;91000;Basah;Transfer;tokke kecil
+1230039;TRX039;U003;A003;08/02/2023;Jl. Balige No. 5;Jagung;17;8000;136000;Kering;Transfer;petani
+1230040;TRX040;U004;A004;09/02/2023;Jl. Sitoluama No. 8;Jagung;28;5000;140000;Basah;Cash;tokke kecil
+1230041;TRX041;U005;A005;10/02/2023;Jl. Porsea No. 3;Jagung;30;6000;180000;Kering;Cash;Petani
+1230042;TRX042;U001;A001;11/02/2023;Jl. Sitoluama No. 1;Jagung;22;7000;154000;Basah;Transfer;Petani
+1230043;TRX043;U002;A002;12/02/2023;Jl.Porsea No. 10;Jagung;26;5000;130000;Kering;Transfer;tokke kecil
+1230044;TRX044;U003;A003;13/02/2023;Jl. Balige No. 5;Jagung;15;8000;120000;Basah;Cash;petani
+1230045;TRX045;U004;A004;14/02/2023;Jl. Sitoluama No. 8;Jagung;18;5000;90000;Kering;Cash;tokke kecil
+1230046;TRX046;U005;A005;15/02/2023;Jl. Porsea No. 3;Jagung;20;7000;140000;Basah;Transfer;Petani
+1230047;TRX047;U001;A001;16/02/2023;Jl. Sitoluama No. 1;Jagung;29;6000;174000;Kering;Transfer;Petani
+1230048;TRX048;U002;A002;17/02/2023;Jl.Porsea No. 10;Jagung;11;5000;55000;Basah;Cash;tokke kecil
+1230049;TRX049;U003;A003;18/02/2023;Jl. Balige No. 5;Jagung;14;8000;112000;Kering;Cash;petani
+1230050;TRX050;U004;A004;19/02/2023;Jl. Sitoluama No. 8;Jagung;30;7000;210000;Basah;Cash;tokke kecil
+1230051;TRX051;U005;A005;20/02/2023;Jl. Porsea No. 3;Jagung;25;5000;125000;Kering;Transfer;Petani
+1230052;TRX052;U001;A001;21/02/2023;Jl. Sitoluama No. 1;Jagung;10;6000;60000;Basah;Cash;Petani
+1230053;TRX053;U002;A002;22/02/2023;Jl.Porsea No. 10;Jagung;18;7000;126000;Kering;Transfer;tokke kecil
+1230054;TRX054;U003;A003;23/02/2023;Jl. Balige No. 5;Jagung;20;8000;160000;Basah;Transfer;petani
+1230055;TRX055;U004;A004;24/02/2023;Jl. Sitoluama No. 8;Jagung;16;5000;80000;Kering;Cash;tokke kecil
+1230056;TRX056;U005;A005;25/02/2023;Jl. Porsea No. 3;Jagung;23;6000;138000;Basah;Cash;Petani
+1230057;TRX057;U001;A001;26/02/2023;Jl. Sitoluama No. 1;Jagung;27;7000;189000;Kering;Transfer;Petani
+1230058;TRX058;U002;A002;27/02/2023;Jl.Porsea No. 10;Jagung;16;5000;80000;Basah;Cash;tokke kecil
+1230059;TRX059;U003;A003;28/02/2023;Jl. Balige No. 5;Jagung;24;8000;192000;Kering;Cash;petani
+1230060;TRX060;U001;A001;01/03/2023;Jl. Sitoluama No. 1;Jagung;19;6100;115900;Kering;Cash;Petani
+1230061;TRX061;U002;A002;02/03/2023;Jl.Porsea No. 10;Jagung;24;7850;188400;Kering;Transfer;tokke kecil
+1230062;TRX062;U003;A003;03/03/2023;Jl. Balige No. 5;Jagung;12;5680;68160;Kering;Transfer;petani
+1230063;TRX063;U004;A004;04/03/2023;Jl. Sitoluama No. 8;Jagung;15;5240;78600;Basah;Cash;tokke kecil
+1230064;TRX064;U005;A005;05/03/2023;Jl. Porsea No. 3;Jagung;28;7720;215760;Kering;Cash;Petani
+1230065;TRX065;U001;A001;06/03/2023;Jl. Sitoluama No. 1;Jagung;20;6470;129400;Basah;Cash;Petani
+1230066;TRX066;U002;A002;07/03/2023;Jl.Porsea No. 10;Jagung;18;6350;114300;Kering;Transfer;tokke kecil
+1230067;TRX067;U003;A003;08/03/2023;Jl. Balige No. 5;Jagung;17;5810;98770;Kering;Transfer;petani
+1230068;TRX068;U004;A004;09/03/2023;Jl. Sitoluama No. 8;Jagung;14;5910;82640;Kering;Cash;tokke kecil
+1230069;TRX069;U005;A005;10/03/2023;Jl. Porsea No. 3;Jagung;27;7210;194670;Basah;Cash;Petani
+1230070;TRX070;U001;A001;11/03/2023;Jl. Sitoluama No. 1;Jagung;24;7490;179760;Basah;Transfer;Petani
+1230071;TRX071;U002;A002;12/03/2023;Jl.Porsea No. 10;Jagung;11;5750;63250;Basah;Transfer;tokke kecil
+1230072;TRX072;U003;A003;13/03/2023;Jl. Balige No. 5;Jagung;16;5190;83040;Basah;Cash;petani
+1230073;TRX073;U004;A004;14/03/2023;Jl. Sitoluama No. 8;Jagung;23;7540;173420;Basah;Cash;tokke kecil
+1230074;TRX074;U005;A005;15/03/2023;Jl. Porsea No. 3;Jagung;15;7920;118800;Basah;Transfer;Petani
+1230075;TRX075;U001;A001;16/03/2023;Jl. Sitoluama No. 1;Jagung;29;6940;201460;Basah;Transfer;Petani
+1230076;TRX076;U002;A002;17/03/2023;Jl.Porsea No. 10;Jagung;24;5600;134400;Kering;Cash;tokke kecil
+1230077;TRX077;U003;A003;18/03/2023;Jl. Balige No. 5;Jagung;13;5180;67340;Kering;Cash;petani
+1230078;TRX078;U004;A004;19/03/2023;Jl. Sitoluama No. 8;Jagung;12;5210;62520;Basah;Cash;tokke kecil
+1230079;TRX079;U005;A005;20/03/2023;Jl. Porsea No. 3;Jagung;20;6110;122200;Kering;Transfer;Petani
+1230080;TRX080;U001;A001;21/03/2023;Jl. Sitoluama No. 1;Jagung;14;5970;83580;Kering;Cash;Petani
+1230081;TRX081;U002;A002;22/03/2023;Jl.Porsea No. 10;Jagung;26;7340;190840;Kering;Transfer;tokke kecil
+1230082;TRX082;U003;A003;23/03/2023;Jl. Balige No. 5;Jagung;29;7730;224170;Kering;Transfer;petani
+1230083;TRX083;U004;A004;24/03/2023;Jl. Sitoluama No. 8;Jagung;11;5920;65120;Kering;Cash;tokke kecil
+1230084;TRX084;U005;A005;25/03/2023;Jl. Porsea No. 3;Jagung;19;5830;110770;Kering;Cash;Petani
+1230085;TRX085;U001;A001;26/03/2023;Jl. Sitoluama No. 1;Jagung;30;7100;213000;Basah;Transfer;Petani
+1230086;TRX086;U002;A002;27/03/2023;Jl.Porsea No. 10;Jagung;16;7850;125600;Kering;Cash;tokke kecil
+1230087;TRX087;U003;A003;28/03/2023;Jl. Balige No. 5;Jagung;17;6100;103700;Kering;Cash;petani
+1230088;TRX088;U004;A004;29/03/2023;Jl. Sitoluama No. 8;Jagung;12;5310;63720;Basah;Cash;tokke kecil
+1230089;TRX089;U005;A005;30/03/2023;Jl. Porsea No. 3;Jagung;21;5940;124740;Basah;Transfer;Petani
+1230090;TRX090;U004;A004;31/03/2023;Jl. Sitoluama No. 8;Jagung;14;7000;98000;Basah;Cash;tokke kecil
+1230091;TRX091;U001;A001;01/04/2023;Jl. Sitoluama No. 1;Jagung;26;5430;141180;Kering;Cash;Petani
+1230092;TRX092;U002;A002;02/04/2023;Jl.Porsea No. 10;Jagung;18;7970;143460;Basah;Transfer;tokke kecil
+1230093;TRX093;U003;A003;03/04/2023;Jl. Balige No. 5;Jagung;22;5170;113740;Basah;Transfer;petani
+1230094;TRX094;U004;A004;04/04/2023;Jl. Sitoluama No. 8;Jagung;15;6190;92850;Basah;Cash;tokke kecil
+1230095;TRX095;U005;A005;05/04/2023;Jl. Porsea No. 3;Jagung;20;7010;140200;Kering;Cash;Petani
+1230096;TRX096;U001;A001;06/04/2023;Jl. Sitoluama No. 1;Jagung;12;7700;92400;Basah;Cash;Petani
+1230097;TRX097;U002;A002;07/04/2023;Jl.Porsea No. 10;Jagung;25;5160;129000;Kering;Transfer;tokke kecil
+1230098;TRX098;U003;A003;08/04/2023;Jl. Balige No. 5;Jagung;19;6310;119990;Kering;Transfer;petani
+1230099;TRX099;U004;A004;09/04/2023;Jl. Sitoluama No. 8;Jagung;14;7740;108360;Basah;Cash;tokke kecil
+1230100;TRX100;U005;A005;10/04/2023;Jl. Porsea No. 3;Jagung;30;5270;158100;Basah;Cash;Petani
+1230101;TRX101;U001;A001;11/04/2023;Jl. Sitoluama No. 1;Jagung;16;5830;93280;Kering;Transfer;Petani
+1230102;TRX102;U002;A002;12/04/2023;Jl.Porsea No. 10;Jagung;21;6090;127890;Kering;Transfer;tokke kecil
+1230103;TRX103;U003;A003;13/04/2023;Jl. Balige No. 5;Jagung;13;7980;103740;Basah;Cash;petani
+1230104;TRX104;U004;A004;14/04/2023;Jl. Sitoluama No. 8;Jagung;28;5190;145320;Kering;Cash;tokke kecil
+1230105;TRX105;U005;A005;15/04/2023;Jl. Porsea No. 3;Jagung;16;5670;90720;Basah;Transfer;Petani
+1230106;TRX106;U001;A001;16/04/2023;Jl. Sitoluama No. 1;Jagung;27;5310;143670;Kering;Transfer;Petani
+1230107;TRX107;U002;A002;17/04/2023;Jl.Porsea No. 10;Jagung;11;7220;79420;Basah;Cash;tokke kecil
+1230108;TRX108;U003;A003;18/04/2023;Jl. Balige No. 5;Jagung;23;6560;150880;Kering;Cash;petani
+1230109;TRX109;U004;A004;19/04/2023;Jl. Sitoluama No. 8;Jagung;29;6060;175740;Basah;Cash;tokke kecil
+1230110;TRX110;U005;A005;20/04/2023;Jl. Porsea No. 3;Jagung;14;7830;109620;Kering;Transfer;Petani
+1230111;TRX111;U001;A001;21/04/2023;Jl. Sitoluama No. 1;Jagung;17;7910;134470;Kering;Cash;Petani
+1230112;TRX112;U002;A002;22/04/2023;Jl.Porsea No. 10;Jagung;30;5750;172500;Kering;Transfer;tokke kecil
+1230113;TRX113;U003;A003;23/04/2023;Jl. Balige No. 5;Jagung;18;5260;94680;Basah;Transfer;petani
+1230114;TRX114;U004;A004;24/04/2023;Jl. Sitoluama No. 8;Jagung;15;6880;103200;Kering;Cash;tokke kecil
+1230115;TRX115;U005;A005;25/04/2023;Jl. Porsea No. 3;Jagung;29;7910;229390;Basah;Cash;Petani
+1230116;TRX116;U001;A001;26/04/2023;Jl. Sitoluama No. 1;Jagung;11;7790;85690;Basah;Transfer;Petani
+1230117;TRX117;U002;A002;27/04/2023;Jl.Porsea No. 10;Jagung;27;6000;162000;Kering;Cash;tokke kecil
+1230118;TRX118;U003;A003;28/04/2023;Jl. Balige No. 5;Jagung;23;5620;129260;Kering;Cash;petani
+1230119;TRX119;U004;A004;29/04/2023;Jl. Sitoluama No. 8;Jagung;20;5340;106800;Basah;Cash;tokke kecil
+1230120;TRX120;U005;A005;30/04/2023;Jl. Porsea No. 3;Jagung;12;7980;95760;Kering;Transfer;Petani
+1230121;TRX121;U001;A001;01/05/2023;Jl. Sitoluama No. 1;Jagung;20;6310;126200;Kering;Cash;Petani
+1230122;TRX122;U002;A002;02/05/2023;Jl.Porsea No. 10;Jagung;17;5570;94590;Basah;Transfer;tokke kecil
+1230123;TRX123;U003;A003;03/05/2023;Jl. Balige No. 5;Jagung;29;7350;213150;Kering;Transfer;petani
+1230124;TRX124;U004;A004;04/05/2023;Jl. Sitoluama No. 8;Jagung;25;6670;166750;Basah;Cash;tokke kecil
+1230125;TRX125;U005;A005;05/05/2023;Jl. Porsea No. 3;Jagung;12;5760;69120;Basah;Cash;Petani
+1230126;TRX126;U001;A001;06/05/2023;Jl. Sitoluama No. 1;Jagung;27;7370;199590;Kering;Cash;Petani
+1230127;TRX127;U002;A002;07/05/2023;Jl.Porsea No. 10;Jagung;18;7980;143640;Basah;Transfer;tokke kecil
+1230128;TRX128;U003;A003;08/05/2023;Jl. Balige No. 5;Jagung;22;5130;112860;Basah;Transfer;petani
+1230129;TRX129;U004;A004;09/05/2023;Jl. Sitoluama No. 8;Jagung;30;5960;178800;Kering;Cash;tokke kecil
+1230130;TRX130;U005;A005;10/05/2023;Jl. Porsea No. 3;Jagung;13;6820;88560;Basah;Cash;Petani
+1230131;TRX131;U001;A001;11/05/2023;Jl. Sitoluama No. 1;Jagung;26;7550;196300;Kering;Transfer;Petani
+1230132;TRX132;U002;A002;12/05/2023;Jl.Porsea No. 10;Jagung;15;7920;118800;Kering;Transfer;tokke kecil
+1230133;TRX133;U003;A003;13/05/2023;Jl. Balige No. 5;Jagung;19;6670;126730;Basah;Cash;petani
+1230134;TRX134;U004;A004;14/05/2023;Jl. Sitoluama No. 8;Jagung;24;6080;145920;Kering;Cash;tokke kecil
+1230135;TRX135;U005;A005;15/05/2023;Jl. Porsea No. 3;Jagung;11;7780;85580;Basah;Transfer;Petani
+1230136;TRX136;U001;A001;16/05/2023;Jl. Sitoluama No. 1;Jagung;28;6120;171360;Kering;Transfer;Petani
+1230137;TRX137;U002;A002;17/05/2023;Jl.Porsea No. 10;Jagung;14;5500;77000;Basah;Cash;tokke kecil
+1230138;TRX138;U003;A003;18/05/2023;Jl. Balige No. 5;Jagung;21;7670;161070;Kering;Cash;petani
+1230139;TRX139;U004;A004;19/05/2023;Jl. Sitoluama No. 8;Jagung;29;5250;152250;Basah;Cash;tokke kecil
+1230140;TRX140;U005;A005;20/05/2023;Jl. Porsea No. 3;Jagung;16;5580;89280;Kering;Transfer;Petani
+1230141;TRX141;U001;A001;21/05/2023;Jl. Sitoluama No. 1;Jagung;23;6880;158240;Kering;Cash;Petani
+1230142;TRX142;U002;A002;22/05/2023;Jl.Porsea No. 10;Jagung;28;5840;163520;Kering;Transfer;tokke kecil
+1230143;TRX143;U003;A003;23/05/2023;Jl. Balige No. 5;Jagung;15;5090;76350;Basah;Transfer;petani
+1230144;TRX144;U004;A004;24/05/2023;Jl. Sitoluama No. 8;Jagung;20;6570;131400;Kering;Cash;tokke kecil
+1230145;TRX145;U005;A005;25/05/2023;Jl. Porsea No. 3;Jagung;29;5610;162690;Basah;Cash;Petani
+1230146;TRX146;U001;A001;26/05/2023;Jl. Sitoluama No. 1;Jagung;12;7840;94080;Basah;Transfer;Petani
+1230147;TRX147;U002;A002;27/05/2023;Jl.Porsea No. 10;Jagung;16;6130;98080;Kering;Cash;tokke kecil
+1230148;TRX148;U003;A003;28/05/2023;Jl. Balige No. 5;Jagung;25;6140;153500;Kering;Cash;petani
+1230149;TRX149;U004;A004;29/05/2023;Jl. Sitoluama No. 8;Jagung;10;5810;58100;Basah;Cash;tokke kecil
+1230150;TRX150;U005;A005;30/05/2023;Jl. Porsea No. 3;Jagung;18;7890;142020;Kering;Transfer;Petani
+1230151;TRX151;U002;A002;31/05/2023;Jl.Porsea No. 10;Jagung;20;6940;138800;Kering;Cash;tokke kecil
+1230152;TRX152;U001;A001;01/06/2023;Jl. Sitoluama No. 1;Jagung;17;7690;130730;Basah;Transfer;Petani
+1230153;TRX153;U002;A002;02/06/2023;Jl.Porsea No. 10;Jagung;20;6940;138800;Kering;Cash;tokke kecil
+1230154;TRX154;U003;A003;03/06/2023;Jl. Balige No. 5;Jagung;26;5780;150280;Basah;Transfer;petani
+1230155;TRX155;U004;A004;04/06/2023;Jl. Sitoluama No. 8;Jagung;14;7680;107520;Basah;Cash;tokke kecil
+1230156;TRX156;U005;A005;05/06/2023;Jl. Porsea No. 3;Jagung;11;7260;79860;Kering;Cash;Petani
+1230157;TRX157;U001;A001;06/06/2023;Jl. Sitoluama No. 1;Jagung;22;5400;118800;Kering;Cash;Petani
+1230158;TRX158;U002;A002;07/06/2023;Jl.Porsea No. 10;Jagung;17;7080;120360;Basah;Transfer;tokke kecil
+1230159;TRX159;U003;A003;08/06/2023;Jl. Balige No. 5;Jagung;30;6820;204600;Kering;Transfer;petani
+1230160;TRX160;U004;A004;09/06/2023;Jl. Sitoluama No. 8;Jagung;13;7860;102180;Basah;Cash;tokke kecil
+1230161;TRX161;U005;A005;10/06/2023;Jl. Porsea No. 3;Jagung;16;5160;82560;Kering;Cash;Petani
+1230162;TRX162;U001;A001;11/06/2023;Jl. Sitoluama No. 1;Jagung;21;5370;112770;Basah;Transfer;Petani
+1230163;TRX163;U002;A002;12/06/2023;Jl.Porsea No. 10;Jagung;29;7240;210360;Basah;Transfer;tokke kecil
+1230164;TRX164;U003;A003;13/06/2023;Jl. Balige No. 5;Jagung;27;5280;142560;Kering;Cash;petani
+1230165;TRX165;U004;A004;14/06/2023;Jl. Sitoluama No. 8;Jagung;12;7130;85560;Basah;Cash;tokke kecil
+1230166;TRX166;U005;A005;15/06/2023;Jl. Porsea No. 3;Jagung;25;7740;193500;Kering;Transfer;Petani
+1230167;TRX167;U001;A001;16/06/2023;Jl. Sitoluama No. 1;Jagung;19;6210;117990;Kering;Transfer;Petani
+1230168;TRX168;U002;A002;17/06/2023;Jl.Porsea No. 10;Jagung;28;5620;157360;Basah;Cash;tokke kecil
+1230169;TRX169;U003;A003;18/06/2023;Jl. Balige No. 5;Jagung;10;7850;78500;Kering;Cash;petani
+1230170;TRX170;U004;A004;19/06/2023;Jl. Sitoluama No. 8;Jagung;24;7120;170880;Basah;Cash;tokke kecil
+1230171;TRX171;U005;A005;20/06/2023;Jl. Porsea No. 3;Jagung;18;5750;103500;Kering;Transfer;Petani
+1230172;TRX172;U001;A001;21/06/2023;Jl. Sitoluama No. 1;Jagung;27;7140;192780;Kering;Cash;Petani
+1230173;TRX173;U002;A002;22/06/2023;Jl.Porsea No. 10;Jagung;11;5090;55990;Basah;Transfer;tokke kecil
+1230174;TRX174;U003;A003;23/06/2023;Jl. Balige No. 5;Jagung;14;7750;108500;Basah;Transfer;petani
+1230175;TRX175;U004;A004;24/06/2023;Jl. Sitoluama No. 8;Jagung;15;7250;108750;Kering;Cash;tokke kecil
+1230176;TRX176;U005;A005;25/06/2023;Jl. Porsea No. 3;Jagung;30;6860;205800;Basah;Cash;Petani
+1230177;TRX177;U001;A001;26/06/2023;Jl. Sitoluama No. 1;Jagung;23;5270;121210;Basah;Transfer;Petani
+1230178;TRX178;U002;A002;27/06/2023;Jl.Porsea No. 10;Jagung;17;6480;110160;Kering;Cash;tokke kecil
+1230179;TRX179;U003;A003;28/06/2023;Jl. Balige No. 5;Jagung;16;7500;120000;Kering;Cash;petani
+1230180;TRX180;U004;A004;29/06/2023;Jl. Sitoluama No. 8;Jagung;29;5850;169650;Basah;Cash;tokke kecil
+1230181;TRX181;U005;A005;30/06/2023;Jl. Porsea No. 3;Jagung;12;5180;62160;Kering;Transfer;Petani
+1230182;TRX182;U001;A001;01/07/2023;Jl. Sitoluama No. 1;Jagung;13;5770;75010;Basah;Transfer;Petani
+1230183;TRX183;U002;A002;02/07/2023;Jl.Porsea No. 10;Jagung;18;6940;124920;Kering;Cash;tokke kecil
+1230184;TRX184;U003;A003;03/07/2023;Jl. Balige No. 5;Jagung;28;7950;222600;Basah;Transfer;petani
+1230185;TRX185;U004;A004;04/07/2023;Jl. Sitoluama No. 8;Jagung;25;7830;195750;Kering;Cash;tokke kecil
+1230186;TRX186;U005;A005;05/07/2023;Jl. Porsea No. 3;Jagung;20;5780;115600;Basah;Cash;Petani
+1230187;TRX187;U001;A001;06/07/2023;Jl. Sitoluama No. 1;Jagung;22;6320;139040;Kering;Cash;Petani
+1230188;TRX188;U002;A002;07/07/2023;Jl.Porsea No. 10;Jagung;17;7300;124100;Basah;Transfer;tokke kecil
+1230189;TRX189;U003;A003;08/07/2023;Jl. Balige No. 5;Jagung;29;5200;150800;Kering;Transfer;petani
+1230190;TRX190;U004;A004;09/07/2023;Jl. Sitoluama No. 8;Jagung;30;5520;165600;Basah;Cash;tokke kecil
+1230191;TRX191;U005;A005;10/07/2023;Jl. Porsea No. 3;Jagung;13;5310;69130;Kering;Cash;Petani
+1230192;TRX192;U001;A001;11/07/2023;Jl. Sitoluama No. 1;Jagung;15;7560;113400;Basah;Transfer;Petani
+1230193;TRX193;U002;A002;12/07/2023;Jl.Porsea No. 10;Jagung;27;6230;168210;Kering;Transfer;tokke kecil
+1230194;TRX194;U003;A003;13/07/2023;Jl. Balige No. 5;Jagung;21;6870;144270;Basah;Cash;petani
+1230195;TRX195;U004;A004;14/07/2023;Jl. Sitoluama No. 8;Jagung;19;7520;142880;Kering;Cash;tokke kecil
+1230196;TRX196;U005;A005;15/07/2023;Jl. Porsea No. 3;Jagung;16;7840;125440;Basah;Transfer;Petani
+1230197;TRX197;U001;A001;16/07/2023;Jl. Sitoluama No. 1;Jagung;24;5060;121440;Kering;Transfer;Petani
+1230198;TRX198;U002;A002;17/07/2023;Jl.Porsea No. 10;Jagung;23;7850;180550;Basah;Cash;tokke kecil
+1230199;TRX199;U003;A003;18/07/2023;Jl. Balige No. 5;Jagung;10;5180;51800;Kering;Cash;petani
+1230200;TRX200;U004;A004;19/07/2023;Jl. Sitoluama No. 8;Jagung;26;5540;144040;Basah;Cash;tokke kecil
+1230201;TRX201;U005;A005;20/07/2023;Jl. Porsea No. 3;Jagung;14;6940;97160;Kering;Transfer;Petani
+1230202;TRX202;U001;A001;21/07/2023;Jl. Sitoluama No. 1;Jagung;12;7680;92160;Basah;Cash;Petani
+1230203;TRX203;U002;A002;22/07/2023;Jl.Porsea No. 10;Jagung;29;5110;148390;Kering;Transfer;tokke kecil
+1230204;TRX204;U003;A003;23/07/2023;Jl. Balige No. 5;Jagung;18;5150;92700;Basah;Transfer;petani
+1230205;TRX205;U004;A004;24/07/2023;Jl. Sitoluama No. 8;Jagung;12;7680;92160;Kering;Cash;tokke kecil
+1230206;TRX206;U005;A005;25/07/2023;Jl. Porsea No. 3;Jagung;30;7290;218700;Basah;Cash;Petani
+1230207;TRX207;U001;A001;26/07/2023;Jl. Sitoluama No. 1;Jagung;25;5390;134750;Basah;Transfer;Petani
+1230208;TRX208;U002;A002;27/07/2023;Jl.Porsea No. 10;Jagung;27;5460;147420;Kering;Cash;tokke kecil
+1230209;TRX209;U003;A003;28/07/2023;Jl. Balige No. 5;Jagung;19;7040;133760;Kering;Cash;petani
+1230210;TRX210;U004;A004;29/07/2023;Jl. Sitoluama No. 8;Jagung;16;7110;113760;Basah;Cash;tokke kecil
+1230211;TRX211;U005;A005;30/07/2023;Jl. Porsea No. 3;Jagung;11;6890;75790;Kering;Transfer;Petani
+1230212;TRX212;U003;A003;31/07/2023;Jl. Balige No. 5;Jagung;23;6560;150880;Kering;Cash;petani
+1230213;TRX213;U001;A001;01/08/2023;Jl. Sitoluama No. 1;Jagung;28;5560;155680;Kering;Cash;Petani
+1230214;TRX214;U002;A002;02/08/2023;Jl.Porsea No. 10;Jagung;13;6550;85150;Basah;Transfer;tokke kecil
+1230215;TRX215;U003;A003;03/08/2023;Jl. Balige No. 5;Jagung;20;7020;140400;Basah;Transfer;petani
+1230216;TRX216;U004;A004;04/08/2023;Jl. Sitoluama No. 8;Jagung;17;7420;126140;Kering;Cash;tokke kecil
+1230217;TRX217;U005;A005;05/08/2023;Jl. Porsea No. 3;Jagung;25;7890;197250;Basah;Cash;Petani
+1230218;TRX218;U001;A001;06/08/2023;Jl. Sitoluama No. 1;Jagung;15;5850;87750;Kering;Cash;Petani
+1230219;TRX219;U002;A002;07/08/2023;Jl.Porsea No. 10;Jagung;22;5350;117700;Basah;Transfer;tokke kecil
+1230220;TRX220;U003;A003;08/08/2023;Jl. Balige No. 5;Jagung;29;5560;161240;Kering;Transfer;petani
+1230221;TRX221;U004;A004;09/08/2023;Jl. Sitoluama No. 8;Jagung;12;6820;81840;Basah;Cash;tokke kecil
+1230222;TRX222;U005;A005;10/08/2023;Jl. Porsea No. 3;Jagung;30;7570;227100;Kering;Cash;Petani
+1230223;TRX223;U001;A001;11/08/2023;Jl. Sitoluama No. 1;Jagung;24;6270;150480;Basah;Transfer;Petani
+1230224;TRX224;U002;A002;12/08/2023;Jl.Porsea No. 10;Jagung;20;5620;112400;Kering;Transfer;tokke kecil
+1230225;TRX225;U003;A003;13/08/2023;Jl. Balige No. 5;Jagung;27;7030;189810;Basah;Cash;petani
+1230226;TRX226;U004;A004;14/08/2023;Jl. Sitoluama No. 8;Jagung;18;5290;95160;Kering;Cash;tokke kecil
+1230227;TRX227;U005;A005;15/08/2023;Jl. Porsea No. 3;Jagung;14;6210;86940;Basah;Transfer;Petani
+1230228;TRX228;U001;A001;16/08/2023;Jl. Sitoluama No. 1;Jagung;16;5160;82560;Kering;Transfer;Petani
+1230229;TRX229;U002;A002;17/08/2023;Jl.Porsea No. 10;Jagung;29;7570;219530;Basah;Cash;tokke kecil
+1230230;TRX230;U003;A003;18/08/2023;Jl. Balige No. 5;Jagung;11;7610;83710;Kering;Cash;petani
+1230231;TRX231;U004;A004;19/08/2023;Jl. Sitoluama No. 8;Jagung;26;6950;180700;Basah;Cash;tokke kecil
+1230232;TRX232;U005;A005;20/08/2023;Jl. Porsea No. 3;Jagung;30;5280;158400;Kering;Transfer;Petani
+1230233;TRX233;U001;A001;21/08/2023;Jl. Sitoluama No. 1;Jagung;12;7840;94080;Basah;Cash;Petani
+1230234;TRX234;U002;A002;22/08/2023;Jl.Porsea No. 10;Jagung;18;7040;126720;Kering;Transfer;tokke kecil
+1230235;TRX235;U003;A003;23/08/2023;Jl. Balige No. 5;Jagung;27;7860;212820;Basah;Transfer;petani
+1230236;TRX236;U004;A004;24/08/2023;Jl. Sitoluama No. 8;Jagung;14;5460;76440;Kering;Cash;tokke kecil
+1230237;TRX237;U005;A005;25/08/2023;Jl. Porsea No. 3;Jagung;23;5910;135930;Basah;Cash;Petani
+1230238;TRX238;U001;A001;26/08/2023;Jl. Sitoluama No. 1;Jagung;29;6600;191400;Basah;Transfer;Petani
+1230239;TRX239;U002;A002;27/08/2023;Jl.Porsea No. 10;Jagung;16;5650;90400;Kering;Cash;tokke kecil
+1230240;TRX240;U003;A003;28/08/2023;Jl. Balige No. 5;Jagung;20;5790;115800;Kering;Cash;petani
+1230241;TRX241;U004;A004;29/08/2023;Jl. Sitoluama No. 8;Jagung;25;5070;126750;Basah;Cash;tokke kecil
+1230242;TRX242;U005;A005;30/08/2023;Jl. Porsea No. 3;Jagung;10;7090;70900;Kering;Transfer;Petani
+1230243;TRX243;U003;A003;31/08/2023;Jl. Balige No. 5;Jagung;21;6870;144270;Basah;Cash;petani
+1230244;TRX244;U001;A001;01/09/2023;Jl. Sitoluama No. 1;Jagung;23;7243;166469;Kering;Cash;Petani
+1230245;TRX245;U002;A002;02/09/2023;Jl.Porsea No. 10;Jagung;29;6378;184962;Basah;Transfer;tokke kecil
+1230246;TRX246;U003;A003;03/09/2023;Jl. Balige No. 5;Jagung;11;5376;59136;Basah;Transfer;petani
+1230247;TRX247;U004;A004;04/09/2023;Jl. Sitoluama No. 8;Jagung;19;6081;115358;Kering;Cash;tokke kecil
+1230248;TRX248;U005;A005;05/09/2023;Jl. Porsea No. 3;Jagung;27;7920;213840;Basah;Cash;Petani
+1230249;TRX249;U001;A001;06/09/2023;Jl. Sitoluama No. 1;Jagung;21;6113;128358;Kering;Cash;Petani
+1230250;TRX250;U002;A002;07/09/2023;Jl.Porsea No. 10;Jagung;17;5258;89386;Basah;Transfer;tokke kecil
+1230251;TRX251;U003;A003;08/09/2023;Jl. Balige No. 5;Jagung;12;7319;87828;Kering;Transfer;petani
+1230252;TRX252;U004;A004;09/09/2023;Jl. Sitoluama No. 8;Jagung;13;5183;67379;Basah;Cash;tokke kecil
+1230253;TRX253;U005;A005;10/09/2023;Jl. Porsea No. 3;Jagung;14;7061;98734;Kering;Cash;Petani
+1230254;TRX254;U001;A001;11/09/2023;Jl. Sitoluama No. 1;Jagung;20;6759;135180;Basah;Transfer;Petani
+1230255;TRX255;U002;A002;12/09/2023;Jl.Porsea No. 10;Jagung;29;5815;168835;Kering;Transfer;tokke kecil
+1230256;TRX256;U003;A003;13/09/2023;Jl. Balige No. 5;Jagung;15;5563;83445;Basah;Cash;petani
+1230257;TRX257;U004;A004;14/09/2023;Jl. Sitoluama No. 8;Jagung;28;7916;221888;Kering;Cash;tokke kecil
+1230258;TRX258;U005;A005;15/09/2023;Jl. Porsea No. 3;Jagung;18;6320;113760;Basah;Transfer;Petani
+1230259;TRX259;U001;A001;16/09/2023;Jl. Sitoluama No. 1;Jagung;12;5680;68160;Kering;Transfer;Petani
+1230260;TRX260;U002;A002;17/09/2023;Jl.Porsea No. 10;Jagung;26;7860;204360;Basah;Cash;tokke kecil
+1230261;TRX261;U003;A003;18/09/2023;Jl. Balige No. 5;Jagung;22;5134;112948;Kering;Cash;petani
+1230262;TRX262;U004;A004;19/09/2023;Jl. Sitoluama No. 8;Jagung;30;7544;226320;Basah;Cash;tokke kecil
+1230263;TRX263;U005;A005;20/09/2023;Jl. Porsea No. 3;Jagung;24;7268;174432;Kering;Transfer;Petani
+1230264;TRX264;U001;A001;21/09/2023;Jl. Sitoluama No. 1;Jagung;16;6541;104656;Basah;Cash;Petani
+1230265;TRX265;U002;A002;22/09/2023;Jl.Porsea No. 10;Jagung;15;6462;96930;Kering;Transfer;tokke kecil
+1230266;TRX266;U003;A003;23/09/2023;Jl. Balige No. 5;Jagung;29;5626;163354;Basah;Transfer;petani
+1230267;TRX267;U004;A004;24/09/2023;Jl. Sitoluama No. 8;Jagung;11;6083;66913;Kering;Cash;tokke kecil
+1230268;TRX268;U005;A005;25/09/2023;Jl. Porsea No. 3;Jagung;26;7013;182338;Basah;Cash;Petani
+1230269;TRX269;U001;A001;26/09/2023;Jl. Sitoluama No. 1;Jagung;27;7674;207498;Basah;Transfer;Petani
+1230270;TRX270;U002;A002;27/09/2023;Jl.Porsea No. 10;Jagung;14;5489;76846;Kering;Cash;tokke kecil
+1230271;TRX271;U003;A003;28/09/2023;Jl. Balige No. 5;Jagung;30;7925;237750;Kering;Cash;petani
+1230272;TRX272;U004;A004;29/09/2023;Jl. Sitoluama No. 8;Jagung;24;7675;184200;Basah;Cash;tokke kecil
+1230273;TRX273;U005;A005;30/09/2023;Jl. Porsea No. 3;Jagung;17;7398;125766;Kering;Transfer;Petani
+1230274;TRX274;U001;A001;01/10/2023;Jl. Sitoluama No. 1;Jagung;14;5990;83860;Kering;Cash;Petani
+1230275;TRX275;U002;A002;02/10/2023;Jl.Porsea No. 10;Jagung;16;7522;120352;Basah;Transfer;tokke kecil
+1230276;TRX276;U003;A003;03/10/2023;Jl. Balige No. 5;Jagung;24;7895;189480;Basah;Transfer;petani
+1230277;TRX277;U004;A004;04/10/2023;Jl. Sitoluama No. 8;Jagung;19;6089;115691;Kering;Cash;tokke kecil
+1230278;TRX278;U005;A005;05/10/2023;Jl. Porsea No. 3;Jagung;11;5480;60280;Basah;Cash;Petani
+1230279;TRX279;U001;A001;06/10/2023;Jl. Sitoluama No. 1;Jagung;27;7284;196668;Kering;Cash;Petani
+1230280;TRX280;U002;A002;07/10/2023;Jl.Porsea No. 10;Jagung;12;7121;85452;Basah;Transfer;tokke kecil
+1230281;TRX281;U003;A003;08/10/2023;Jl. Balige No. 5;Jagung;23;6032;138656;Kering;Transfer;petani
+1230282;TRX282;U004;A004;09/10/2023;Jl. Sitoluama No. 8;Jagung;18;5677;102186;Basah;Cash;tokke kecil
+1230283;TRX283;U005;A005;10/10/2023;Jl. Porsea No. 3;Jagung;29;7855;227995;Kering;Cash;Petani
+1230284;TRX284;U001;A001;11/10/2023;Jl. Sitoluama No. 1;Jagung;25;5694;142350;Basah;Transfer;Petani
+1230285;TRX285;U002;A002;12/10/2023;Jl.Porsea No. 10;Jagung;30;7123;213690;Kering;Transfer;tokke kecil
+1230286;TRX286;U003;A003;13/10/2023;Jl. Balige No. 5;Jagung;20;5206;104120;Basah;Cash;petani
+1230287;TRX287;U004;A004;14/10/2023;Jl. Sitoluama No. 8;Jagung;15;7157;107355;Kering;Cash;tokke kecil
+1230288;TRX288;U005;A005;15/10/2023;Jl. Porsea No. 3;Jagung;22;5161;113542;Basah;Transfer;Petani
+1230289;TRX289;U001;A001;16/10/2023;Jl. Sitoluama No. 1;Jagung;10;6773;67730;Kering;Transfer;Petani
+1230290;TRX290;U002;A002;17/10/2023;Jl.Porsea No. 10;Jagung;20;5874;117480;Basah;Cash;tokke kecil
+1230291;TRX291;U003;A003;18/10/2023;Jl. Balige No. 5;Jagung;29;5147;149363;Kering;Cash;petani
+1230292;TRX292;U004;A004;19/10/2023;Jl. Sitoluama No. 8;Jagung;24;5540;132960;Basah;Cash;tokke kecil
+1230293;TRX293;U005;A005;20/10/2023;Jl. Porsea No. 3;Jagung;17;7354;124818;Kering;Transfer;Petani
+1230294;TRX294;U001;A001;21/10/2023;Jl. Sitoluama No. 1;Jagung;11;7851;86361;Basah;Cash;Petani
+1230295;TRX295;U002;A002;22/10/2023;Jl.Porsea No. 10;Jagung;23;7056;162288;Kering;Transfer;tokke kecil
+1230296;TRX296;U003;A003;23/10/2023;Jl. Balige No. 5;Jagung;28;5316;148848;Basah;Transfer;petani
+1230297;TRX297;U004;A004;24/10/2023;Jl. Sitoluama No. 8;Jagung;14;5525;77350;Kering;Cash;tokke kecil
+1230298;TRX298;U005;A005;25/10/2023;Jl. Porsea No. 3;Jagung;26;7109;184834;Basah;Cash;Petani
+1230299;TRX299;U001;A001;26/10/2023;Jl. Sitoluama No. 1;Jagung;19;7844;149236;Basah;Transfer;Petani
+1230300;TRX300;U002;A002;27/10/2023;Jl.Porsea No. 10;Jagung;13;7104;92352;Kering;Cash;tokke kecil
+1230301;TRX301;U003;A003;28/10/2023;Jl. Balige No. 5;Jagung;29;7885;228665;Kering;Cash;petani
+1230302;TRX302;U004;A004;29/10/2023;Jl. Sitoluama No. 8;Jagung;22;6127;134794;Basah;Cash;tokke kecil
+1230303;TRX303;U005;A005;30/10/2023;Jl. Porsea No. 3;Jagung;21;6357;133797;Kering;Transfer;Petani
+1230304;TRX304;U002;A002;31/10/2023;Jl.Porsea No. 10;Jagung;15;6462;96930;Kering;Transfer;tokke kecil
+1230305;TRX305;U001;A001;01/11/2023;Jl. Sitoluama No. 1;Jagung;18;7542;135756;Basah;Cash;Petani
+1230306;TRX306;U002;A002;02/11/2023;Jl.Porsea No. 10;Jagung;27;7067;190809;Kering;Transfer;tokke kecil
+1230307;TRX307;U003;A003;03/11/2023;Jl. Balige No. 5;Jagung;13;5899;76687;Basah;Transfer;petani
+1230308;TRX308;U004;A004;04/11/2023;Jl. Sitoluama No. 8;Jagung;14;5610;78540;Kering;Cash;tokke kecil
+1230309;TRX309;U005;A005;05/11/2023;Jl. Porsea No. 3;Jagung;12;7793;93516;Basah;Cash;Petani
+1230310;TRX310;U001;A001;06/11/2023;Jl. Sitoluama No. 1;Jagung;19;6407;121933;Kering;Cash;Petani
+1230311;TRX311;U002;A002;07/11/2023;Jl.Porsea No. 10;Jagung;15;5383;80745;Basah;Transfer;tokke kecil
+1230312;TRX312;U003;A003;08/11/2023;Jl. Balige No. 5;Jagung;20;7584;151680;Kering;Transfer;petani
+1230313;TRX313;U004;A004;09/11/2023;Jl. Sitoluama No. 8;Jagung;28;6475;181300;Basah;Cash;tokke kecil
+1230314;TRX314;U005;A005;10/11/2023;Jl. Porsea No. 3;Jagung;17;5756;97852;Kering;Cash;Petani
+1230315;TRX315;U001;A001;11/11/2023;Jl. Sitoluama No. 1;Jagung;23;6035;138805;Basah;Transfer;Petani
+1230316;TRX316;U002;A002;12/11/2023;Jl.Porsea No. 10;Jagung;24;7061;169464;Kering;Transfer;tokke kecil
+1230317;TRX317;U003;A003;13/11/2023;Jl. Balige No. 5;Jagung;11;7589;83479;Basah;Cash;petani
+1230318;TRX318;U004;A004;14/11/2023;Jl. Sitoluama No. 8;Jagung;18;7947;143046;Kering;Cash;tokke kecil
+1230319;TRX319;U005;A005;15/11/2023;Jl. Porsea No. 3;Jagung;29;6356;184324;Basah;Transfer;Petani
+1230320;TRX320;U001;A001;16/11/2023;Jl. Sitoluama No. 1;Jagung;21;7185;150765;Kering;Transfer;Petani
+1230321;TRX321;U002;A002;17/11/2023;Jl.Porsea No. 10;Jagung;13;6012;78156;Basah;Cash;tokke kecil
+1230322;TRX322;U003;A003;18/11/2023;Jl. Balige No. 5;Jagung;14;7644;107016;Kering;Cash;petani
+1230323;TRX323;U004;A004;19/11/2023;Jl. Sitoluama No. 8;Jagung;20;5962;119240;Basah;Cash;tokke kecil
+1230324;TRX324;U005;A005;20/11/2023;Jl. Porsea No. 3;Jagung;29;5784;167736;Kering;Transfer;Petani
+1230325;TRX325;U001;A001;21/11/2023;Jl. Sitoluama No. 1;Jagung;10;6554;65540;Basah;Cash;Petani
+1230326;TRX326;U002;A002;22/11/2023;Jl.Porsea No. 10;Jagung;17;6304;107368;Kering;Transfer;tokke kecil
+1230327;TRX327;U003;A003;23/11/2023;Jl. Balige No. 5;Jagung;28;7476;209328;Basah;Transfer;petani
+1230328;TRX328;U004;A004;24/11/2023;Jl. Sitoluama No. 8;Jagung;27;5665;153255;Kering;Cash;tokke kecil
+1230329;TRX329;U005;A005;25/11/2023;Jl. Porsea No. 3;Jagung;21;7180;150780;Basah;Cash;Petani
+1230330;TRX330;U001;A001;26/11/2023;Jl. Sitoluama No. 1;Jagung;20;6126;122520;Kering;Transfer;Petani
+1230331;TRX331;U002;A002;27/11/2023;Jl.Porsea No. 10;Jagung;10;6282;62820;Basah;Cash;tokke kecil
+1230332;TRX332;U003;A003;28/11/2023;Jl. Balige No. 5;Jagung;30;5455;163650;Kering;Cash;petani
+1230333;TRX333;U004;A004;29/11/2023;Jl. Sitoluama No. 8;Jagung;24;5471;131304;Basah;Cash;tokke kecil
+1230334;TRX334;U005;A005;30/11/2023;Jl. Porsea No. 3;Jagung;25;7858;196450;Kering;Transfer;Petani
+1230335;TRX335;U001;A001;01/12/2023;Jl. Sitoluama No. 1;Jagung;19;7511;142609;Basah;Cash;Petani
+1230336;TRX336;U002;A002;02/12/2023;Jl.Porsea No. 10;Jagung;23;5357;123111;Kering;Transfer;tokke kecil
+1230337;TRX337;U003;A003;03/12/2023;Jl. Balige No. 5;Jagung;12;6074;72888;Basah;Transfer;petani
+1230338;TRX338;U004;A004;04/12/2023;Jl. Sitoluama No. 8;Jagung;15;7756;116340;Kering;Cash;tokke kecil
+1230339;TRX339;U005;A005;05/12/2023;Jl. Porsea No. 3;Jagung;16;6512;104192;Basah;Cash;Petani
+1230340;TRX340;U001;A001;06/12/2023;Jl. Sitoluama No. 1;Jagung;14;6428;89992;Kering;Cash;Petani
+1230341;TRX341;U002;A002;07/12/2023;Jl.Porsea No. 10;Jagung;29;7028;203812;Basah;Transfer;tokke kecil
+1230342;TRX342;U003;A003;08/12/2023;Jl. Balige No. 5;Jagung;17;5634;95878;Kering;Transfer;petani
+1230343;TRX343;U004;A004;09/12/2023;Jl. Sitoluama No. 8;Jagung;18;7305;131490;Basah;Cash;tokke kecil
+1230344;TRX344;U005;A005;10/12/2023;Jl. Porsea No. 3;Jagung;26;7513;195338;Kering;Cash;Petani
+1230345;TRX345;U001;A001;11/12/2023;Jl. Sitoluama No. 1;Jagung;23;5882;135266;Basah;Transfer;Petani
+1230346;TRX346;U002;A002;12/12/2023;Jl.Porsea No. 10;Jagung;13;5603;72839;Kering;Transfer;tokke kecil
+1230347;TRX347;U003;A003;13/12/2023;Jl. Balige No. 5;Jagung;22;7439;163658;Basah;Cash;petani
+1230348;TRX348;U004;A004;14/12/2023;Jl. Sitoluama No. 8;Jagung;20;6129;122580;Kering;Cash;tokke kecil
+1230349;TRX349;U005;A005;15/12/2023;Jl. Porsea No. 3;Jagung;27;5415;146205;Basah;Transfer;Petani
+1230350;TRX350;U001;A001;16/12/2023;Jl. Sitoluama No. 1;Jagung;16;7956;127296;Kering;Transfer;Petani
+1230351;TRX351;U002;A002;17/12/2023;Jl.Porsea No. 10;Jagung;11;6078;66858;Basah;Cash;tokke kecil
+1230352;TRX352;U003;A003;18/12/2023;Jl. Balige No. 5;Jagung;14;7034;98476;Kering;Cash;petani
+1230353;TRX353;U004;A004;19/12/2023;Jl. Sitoluama No. 8;Jagung;12;7522;90264;Basah;Cash;tokke kecil
+1230354;TRX354;U005;A005;20/12/2023;Jl. Porsea No. 3;Jagung;21;6781;142401;Kering;Transfer;Petani
+1230355;TRX355;U001;A001;21/12/2023;Jl. Sitoluama No. 1;Jagung;30;7903;237090;Basah;Cash;Petani
+1230356;TRX356;U002;A002;22/12/2023;Jl.Porsea No. 10;Jagung;26;6889;179014;Kering;Transfer;tokke kecil
+1230357;TRX357;U003;A003;23/12/2023;Jl. Balige No. 5;Jagung;18;5366;96672;Basah;Transfer;petani
+1230358;TRX358;U004;A004;24/12/2023;Jl. Sitoluama No. 8;Jagung;20;7837;156740;Kering;Cash;tokke kecil
+1230359;TRX359;U005;A005;25/12/2023;Jl. Porsea No. 3;Jagung;27;7483;202041;Basah;Cash;Petani
+1230360;TRX360;U001;A001;26/12/2023;Jl. Sitoluama No. 1;Jagung;25;5783;144575;Kering;Transfer;Petani
+1230361;TRX361;U002;A002;27/12/2023;Jl.Porsea No. 10;Jagung;22;5815;127930;Basah;Cash;tokke kecil
+1230362;TRX362;U003;A003;28/12/2023;Jl. Balige No. 5;Jagung;19;5466;103854;Kering;Cash;petani
+1230363;TRX363;U004;A004;29/12/2023;Jl. Sitoluama No. 8;Jagung;28;7842;219576;Basah;Cash;tokke kecil
+1230364;TRX364;U005;A005;30/12/2023;Jl. Porsea No. 3;Jagung;10;7371;73710;Kering;Transfer;Petani
+1230365;TRX365;U003;A003;31/12/2023;Jl. Balige No. 5;Jagung;23;6560;150880;Kering;Cash;petani
